@@ -8171,7 +8171,7 @@
         {
           "id": "ESSL CTRB",
           "group": "TWR",
-          "owner": ["CF", "SL", "RTC", "OKC", "S1", "S9", "S3", "AA"],
+          "owner": ["CF", "SL", "RTC", "CFA", "OKC", "S1", "S9", "S3", "AA"],
           "sectors": [
             {
               "min": 0,
@@ -8190,7 +8190,7 @@
         {
           "id": "ESSL CTRA",
           "group": "TWR",
-          "owner": ["SL", "RTC", "OKC", "S1", "S9", "S3", "AA"],
+          "owner": ["SL", "RTC", "CFA", "OKC", "S1", "S9", "S3", "AA"],
           "sectors": [
             {
               "min": 0,
