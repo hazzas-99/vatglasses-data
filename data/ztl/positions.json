@@ -53,7 +53,7 @@
         "GSO": { "callsign": "Greensboro Departure", "frequency": "124.350", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
         "GSP": { "callsign": "Greer Departure", "frequency": "118.800", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
         "MGM": { "callsign": "Montgomery Departure", "frequency": "124.000", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
-        "TRI": { "callsign": "Tri-Cities Departure", "frequency": "134.425", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
+        "TRI": { "callsign": "Tri City Departure", "frequency": "134.425", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]},
         "TYS": { "callsign": "Konxville Departure", "frequency": "123.900", "type": "CTR", "pre": [ "ATL" ], "colours": [{ "hex": "#F4A261" }]}
   },
   "callsigns": {

@@ -1000,7 +1000,7 @@
 ]
 },
 "AVL": {
-"id": "Asheville (AVL)",
+"id": "Asheville",
 "group": "APP",
 "sectors": [
 {
@@ -1031,7 +1031,7 @@
 ]
 },
 "BHM": {
-"id": "Birmingham (BHM)",
+"id": "Birmingham",
 "group": "APP",
 "sectors": [
 {
@@ -1072,7 +1072,7 @@
 ]
 },
 "GSO": {
-"id": "Greensboro (GSO)",
+"id": "Greensboro",
 "group": "APP",
 "sectors": [
 {
@@ -1100,7 +1100,7 @@
 ]
 },
 "TRI": {
-"id": "Tri-City (TRI)",
+"id": "Tri-City",
 "group": "APP",
 "sectors": [
 {
@@ -1132,7 +1132,7 @@
 ]
 },
 "GSP": {
-"id": "Greer (GSP)",
+"id": "Greer",
 "group": "APP",
 "sectors": [
 {
@@ -1167,7 +1167,7 @@
 ]
 },
 "CHA": {
-"id": "Chattanooga (CHA)",
+"id": "Chattanooga",
 "group": "APP",
 "sectors": [
 {
@@ -1190,7 +1190,7 @@
 ]
 },
 "CLT": {
-"id": "Charlotte (CLT)",
+"id": "Charlotte",
 "group": "APP",
 "sectors": [
 {
@@ -1226,7 +1226,7 @@
 ]
 },
 "AHN": {
-"id": "Athens (AHN)",
+"id": "Athens",
 "group": "A80",
 "sectors": [
 {
@@ -1248,7 +1248,7 @@
 ]
 },
 "MCN": {
-"id": "Macon (MCN)",
+"id": "Macon",
 "group": "A80",
 "sectors": [
 {
@@ -1277,7 +1277,7 @@
 ]
 },
 "CSG": {
-"id": "Columbus (CSG)",
+"id": "Columbus",
 "group": "A80",
 "sectors": [
 {
@@ -1308,7 +1308,7 @@
 ]
 },
 "MGM": {
-"id": "Montgomery (MGM)",
+"id": "Montgomery",
 "group": "APP",
 "sectors": [
 {
@@ -1335,7 +1335,7 @@
 ]
 },
 "TYS": {
-"id": "Knoxville (TYS)",
+"id": "Knoxville",
 "group": "APP",
 "sectors": [
 {
@@ -1362,7 +1362,7 @@
 ]
 },
 "A80": {
-"id": "Atlanta Large Tracon (A80)",
+"id": "Atlanta",
 "group": "A80",
 "sectors": [
 {
@@ -1407,7 +1407,7 @@
       "name": "TRACON"
     },
     "A80": {
-      "name": "Atlanta Large Tracon"
+      "name": "Atlanta TRACON"
     },
     "RAP": {
       "name": "RAPCON"
@@ -1418,7 +1418,7 @@
   },
   "airports": {
     "KATL": {
-      "callsign": "Hartsfield-Jackson Atlanta Intl GA",
+      "callsign": "Atlanta",
       "coord": [
         "33.640444",
         "-84.426944"
@@ -1431,7 +1431,7 @@
       ]
     },
     "KFFC": {
-      "callsign": "Atlanta Peachtree City-Falcon Field GA",
+      "callsign": "Falcon",
       "coord": [
         "33.35725",
         "-84.571833"
@@ -1441,7 +1441,7 @@
       ]
     },
     "KFTY": {
-      "callsign": "Atlanta Fulton County Airport-Brown Field GA",
+      "callsign": "Fulton County",
       "coord": [
         "33.779139",
         "-84.521361"
@@ -1454,7 +1454,7 @@
       ]
     },
     "KPDK": {
-      "callsign": "Atlanta De Kalb-Peachtree GA",
+      "callsign": "Peachtree",
       "coord": [
         "33.875606",
         "-84.301967"
@@ -1467,7 +1467,7 @@
       ]
     },
     "KAGS": {
-      "callsign": "Augusta Bush Field GA",
+      "callsign": "Augusta",
       "coord": [
         "33.369947",
         "-81.964506"
@@ -1480,7 +1480,7 @@
       ]
     },
     "KAHN": {
-      "callsign": "Athens GA",
+      "callsign": "Athens",
       "coord": [
         "33.948594",
         "-83.326347"
@@ -1493,7 +1493,7 @@
       ]
     },
     "KAVL": {
-      "callsign": "Asheville Reg. NC",
+      "callsign": "Asheville",
       "coord": [
         "35.436194",
         "-82.541806"
@@ -1506,7 +1506,7 @@
       ]
     },
     "KBHM": {
-      "callsign": "Birmingham Intl AL",
+      "callsign": "Birmingham",
       "coord": [
         "33.562944",
         "-86.75355"
@@ -1519,7 +1519,7 @@
       ]
     },
     "KCHA": {
-      "callsign": "Chattanooga Lovell Field TN",
+      "callsign": "Chattanooga",
       "coord": [
         "35.035269",
         "-85.203789"
@@ -1532,7 +1532,7 @@
       ]
     },
     "KCLT": {
-      "callsign": "Charlotte- Douglas Intl NC",
+      "callsign": "Charlotte",
       "coord": [
         "35.214011",
         "-80.943125"
@@ -1545,7 +1545,7 @@
       ]
     },
     "KCSG": {
-      "callsign": "Columbus Metropolitan GA",
+      "callsign": "Columbus",
       "coord": [
         "32.516333",
         "-84.938861"
@@ -1558,7 +1558,7 @@
       ]
     },
     "KGMU": {
-      "callsign": "Greenville Downtown SC",
+      "callsign": "Greenville",
       "coord": [
         "34.847944",
         "-82.35"
@@ -1571,7 +1571,7 @@
       ]
     },
     "KGSO": {
-      "callsign": "Greensboro Piedmont Triad Intl NC",
+      "callsign": "Greensboro",
       "coord": [
         "36.097747",
         "-79.937297"
@@ -1584,7 +1584,7 @@
       ]
     },
     "KGSP": {
-      "callsign": "Greer Greenville-Spartanburg SC",
+      "callsign": "Greer",
       "coord": [
         "34.895667",
         "-82.218858"
@@ -1597,7 +1597,7 @@
       ]
     },
     "KGYH": {
-      "callsign": "Donaldson Field",
+      "callsign": "Donaldson",
       "coord": [
         "34.758306",
         "-82.376417"
@@ -1610,7 +1610,7 @@
       ]
     },
     "KHKY": {
-      "callsign": "Hickory Reg. NC",
+      "callsign": "Hickory",
       "coord": [
         "35.741147",
         "-81.38955"
@@ -1623,7 +1623,7 @@
       ]
     },
     "KHSV": {
-      "callsign": "Huntsville Intl- Jones Field AL",
+      "callsign": "Huntsville",
       "coord": [
         "34.640447",
         "-86.773108"
@@ -1636,7 +1636,7 @@
       ]
     },
     "KINT": {
-      "callsign": "Winston Salem Smith Reynolds NC",
+      "callsign": "Winston-Salem",
       "coord": [
         "36.133722",
         "-80.222"
@@ -1649,7 +1649,7 @@
       ]
     },
     "KJQF": {
-      "callsign": "Concord Regional NC",
+      "callsign": "Concord",
       "coord": [
         "35.387775",
         "-80.709136"
@@ -1662,7 +1662,7 @@
       ]
     },
     "KLZU": {
-      "callsign": "Gwinnett County - Briscoe Field",
+      "callsign": "Gwinnett",
       "coord": [
         "33.978076",
         "-83.962377"
@@ -1675,7 +1675,7 @@
       ]
     },
     "KMCN": {
-      "callsign": "Macon Middle Georgia Reg. GA",
+      "callsign": "Macon",
       "coord": [
         "32.69285",
         "-83.649211"
@@ -1688,7 +1688,7 @@
       ]
     },
     "KMGM": {
-      "callsign": "Montgomery Dannelly Field AL",
+      "callsign": "Montgomery",
       "coord": [
         "32.300644",
         "-86.393975"
@@ -1701,7 +1701,7 @@
       ]
     },
     "KRYY": {
-      "callsign": "Cobb County Intl-Mccollum Field",
+      "callsign": "McCollum",
       "coord": [
         "34.013167",
         "-84.597028"
@@ -1714,7 +1714,7 @@
       ]
     },
     "KTCL": {
-      "callsign": "Tuscaloosa Muni AL",
+      "callsign": "Tuscaloosa",
       "coord": [
         "33.220628",
         "-87.611403"
@@ -1727,7 +1727,7 @@
       ]
     },
     "KTRI": {
-      "callsign": "Bristol- Johnson- kingsport Tri-City Reg. TN",
+      "callsign": "Tri City",
       "coord": [
         "36.475214",
         "-82.407419"
@@ -1740,7 +1740,7 @@
       ]
     },
     "KTYS": {
-      "callsign": "Knoxville Mc Ghee Tyson TN",
+      "callsign": "Knoxville",
       "coord": [
         "35.812486",
         "-83.992856"
